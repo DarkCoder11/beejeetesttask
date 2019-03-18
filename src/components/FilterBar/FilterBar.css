@@ -1,0 +1,18 @@
+.sortlist_container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 250px;
+    width: 100%;
+    padding: 20px 0;
+    margin-left: auto;
+}
+
+.filter-radius {
+    font-family: 'Lato-Blod';
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    cursor: pointer;
+}
